@@ -10,7 +10,8 @@ body {
 	background: url(../img/back.jpg);
 	width: 2560px;
 	height: 1600px;
-	font-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
 
 }
 
@@ -82,8 +83,25 @@ body {
 	position: absolute;
 }
 .spidy{
-	top: 600px;
-	left: 100px;
+	top: 300px;
+	left: 1300px;
 	position: absolute;
 }
+
+.robot{
+	top: 900px;
+	
+	position: absolute;
+}
+
+
+.brown{
+	top: 500px;
+	left: 2000px;
+	
+	position: absolute;
+}
+
+
+
 
